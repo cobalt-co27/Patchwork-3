@@ -1,6 +1,6 @@
 # Patchwork :3
 
-Patchwork is a lil modpack, with some mods I belive to be underrated/underappreciated (and some more popular ones). I originally made it to just play with some friends (hi, friends) but it ended up becoming it's own little pack!
+Patchwork is a lil modpack, with some mods I belive to be underrated/underappreciated (and some more popular ones). I originally made it to just play with some friends (*hi, friends*) but it ended up becoming it's own little pack!
 
 While Patchwork is technically kitchen-sink, I've worked to eliminate any bloat. If you want a feature, one of the mods probably has it. You might have to work for it though...
 
